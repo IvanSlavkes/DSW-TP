@@ -2,8 +2,7 @@
 
 ## Grupo
 ### Integrantes
-* 51467 - Martin Garcia
-* 54238 - Ivan Slavkes
+* 54238 - Iván Slavkes
 * 54299 - Antonella Minetti
 * 47243 - Ignacio Anastasini
 
