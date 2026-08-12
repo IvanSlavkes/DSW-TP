@@ -16,7 +16,7 @@ Una aplicación para encontrar equipo o rival para un partido de futbol.
 Un "Admin" crea la sala y los demas se pueden unir / solicitar unirse para jugar ese partido.
 
 ### Modelo
-![Diagrama](<img width="642" height="942" alt="DSW-TP" src="https://github.com/user-attachments/assets/3bb46c76-b625-4699-a0fa-6258f43c004a" />)
+![Diagrama](https://github.com/user-attachments/assets/a3021d8d-0d3b-44cc-a5d9-68b1fa9155af)
 
 ## Alcance Funcional 
 
