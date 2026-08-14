@@ -7,8 +7,8 @@
 * 47243 - Ignacio Anastasini
 
 ### Repositorios
-* [Frontend app]()
-* [Backend app]()
+* [Frontend app](https://github.com/IvanSlavkes/DSW-Frontend)
+* [Backend app](https://github.com/IvanSlavkes/DSW-Backend)
 
 ## Tema
 ### Descripción
